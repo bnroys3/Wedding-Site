@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ef05350.css",
+    "main.js": "/static/js/main.e2cbbd79.js",
+    "static/js/453.b38c267e.chunk.js": "/static/js/453.b38c267e.chunk.js",
+    "static/media/pexels-andre-furtado-43594-1417255.jpg": "/static/media/pexels-andre-furtado-43594-1417255.2bfb21e3175d3c5fcaaa.jpg",
+    "static/media/pexels-d-ng-nhan-324384-1021145.jpg": "/static/media/pexels-d-ng-nhan-324384-1021145.b856188b664b31619117.jpg",
+    "static/media/0pexels-valentinantonucci-1378723.jpg": "/static/media/0pexels-valentinantonucci-1378723.bd1d27849fe853d6a402.jpg",
+    "static/media/pexels-asadphoto-1024963.jpg": "/static/media/pexels-asadphoto-1024963.3452417e76c82a9a94db.jpg",
+    "static/media/0pexels-asadphoto-1024984.jpg": "/static/media/0pexels-asadphoto-1024984.3bc8d40b51958634a896.jpg",
+    "static/media/pexels-asadphoto-1024960.jpg": "/static/media/pexels-asadphoto-1024960.ef59420eb80ce8e90107.jpg",
+    "static/media/Southland.ttf": "/static/media/Southland.b14c230f7d2dbe8c6a26.ttf",
+    "index.html": "/index.html",
+    "main.4ef05350.css.map": "/static/css/main.4ef05350.css.map",
+    "main.e2cbbd79.js.map": "/static/js/main.e2cbbd79.js.map",
+    "453.b38c267e.chunk.js.map": "/static/js/453.b38c267e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef05350.css",
+    "static/js/main.e2cbbd79.js"
+  ]
+}

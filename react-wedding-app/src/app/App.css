@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  min-height: 100vh;
+  background-color: #d5cbb2;
+  font-family: Georgia, 'Times New Roman', Times;
+}
+
+@font-face {
+  font-family: "Fancy";
+  src: url(/public/Southland.ttf);
+}
+
+.navbar {
+  background-color: #d5cbb2;
+}
+.App-header {
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.fancy {
+  font-family: "Fancy";
+  font-size: calc(60px + 4vmin);
+  padding: 0px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.inner {
+  width: 100%;
+  max-width: 850px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-rsvp {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-inline-left {
+  display: inline;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  width: calc(50% - 5px);
+}
+
+.form-inline {
+  display: inline;
+  margin-bottom: 5px;
+  width: 50%
+}
+
+.form-control {
+  font-size: calc(16px + .3vmin);
+}
+
+.form-inline-container {
+  display: flex;
+  flex-direction: row;
+  font-size: calc(16px + .3vmin);
+  margin: 5px;
+  margin-right: 5%;
+}
+
+.form-inline-prompt {
+  text-align: start;
+  align-self: flex-start;
+  margin: 5px;
+  margin-right: 10%;
+}
+
+.form-number-input {
+  width: 10%;
+  min-width: 60px;
+  font-size: calc(16px + .3vmin);
+}
+
+
+.btn-block {
+  width: 100%;
+  padding: 10px 20px;
+  font-weight: normal;
+  font-weight: bold;
+  font-size: calc(16px + .3vmin);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bad-password {
+  font-size: calc(16px + .3vmin);
+  color: rgb(244, 0, 0);
+}
+
+.good-msg {
+  font-size: calc(16px + .3vmin);
+  color: rgb(0, 107, 23);
+}
+
+.map {
+  width: 90%;
+  max-width: 400px;
+  height: 55vmin;
+  max-height: 260px;
+}
+
+.small {
+  font-size: calc(14px + .5vmin);
+}
